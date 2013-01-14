@@ -1,4 +1,4 @@
 design-patterns
 ===============
 
-design pattern examples in java with use of spring
+design pattern examples in java
